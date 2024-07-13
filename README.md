@@ -1,3 +1,3 @@
 Bu Python kod örneği, TeleBot kütüphanesi kullanılarak bir Telegram botu oluşturur ve OpenAI'nin GPT-3.5 modelini entegre eder. Bot, kullanıcıların mesajlarına yanıt vermek için OpenAI platformunu kullanır. Kullanıcıdan gelen metni alır, OpenAI ChatCompletion API'sini kullanarak GPT-3.5 modeliyle iletişim kurar ve ardından elde edilen yanıtı kullanıcıya geri gönderir. Bu bot, doğal dil işleme yetenekleri sayesinde kullanıcılarla anlamlı sohbetler yapabilir ve geniş bir yelpazede soruları yanıtlayabilir. Kullanıcı deneyimini zenginleştirmek ve etkileşimi daha kişisel hale getirmek için tasarlanmıştır.
 
-Yasal Uyarı: Bu kodun kullanılmasından doğabilecek her türlü sorun kullanıcının sorumluluğundadır. Finansal kararlar vermeden önce verilerin doğruluğunu sağlayın ve sonuçları doğrulayın.
+Yasal Uyarı: Bu kodun kullanılmasından doğabilecek her türlü sorun kullanıcının sorumluluğundadır.
